@@ -26,3 +26,6 @@ Instructions:
 - The model is implemented in "FED_app_run" notebook file using OpenCV library that captures
   live images from device camera and predicts the emotion and displays with accuracy.
 - The application can be only closed using 'q' key in the keyboard.
+
+** As model weights file and dataset are missing you can download from: https://drive.google.com/file/d/1olyGHehyu5rtf0OamtqP8AaO4LiHo-Ac/view?usp=sharing
+   or download the dataset from the link above and train the model and save weights file as "model.h5" **
